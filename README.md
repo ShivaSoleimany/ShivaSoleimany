@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently reading [Designing Machine Learning Systems]([https://www.oreilly.com/library/view/fundamentals-of-data/9781492031079/](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/?_gl=1*16sjbf9*_ga*MTcxMjA1MDI1Ny4xNzM4NTU5MDAw*_ga_092EL089CH*MTczODU1OTAwMC4xLjEuMTczODU1OTI0Ni41NC4wLjA.). Check it out if interested.
+- 🌱 I’m currently reading [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/?_gl=1*16sjbf9*_ga*MTcxMjA1MDI1Ny4xNzM4NTU5MDAw*_ga_092EL089CH*MTczODU1OTAwMC4xLjEuMTczODU1OTI0Ni41NC4wLjA.). Check it out if interested.
 
 - 📫 How to reach me: soleiman@ualberta.ca
 - 😄 Pronouns: She/Her
